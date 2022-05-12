@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
  long_description = fh.read()
 
 setup(
-    name="flitton_fib_py",
+    name="fib_package",
     version="0.0.1",
     author="Evandro Lippert",
     author_email="evandro.lippert@gmail.com",
